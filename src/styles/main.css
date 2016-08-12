@@ -1,0 +1,114 @@
+.bottom{width: 100%;background: #272729;text-align: center;color: #707070;padding: 13px 0;line-height: 1.8;font-size: 14px;}
+.banner{background: url(../images/20160531_1.png) no-repeat center; height: 883px;width: 100%;padding-top: 100px;}
+.mainBox{width: 1200px;margin: 0 auto;}
+.part1{border:1px solid #fff; width: 565px;}
+.title1{color: #fff;font-size: 17px;font-weight: 300;line-height: 1.8;padding: 30px 0;padding-bottom: 90px;}
+.part2{width: 566px; background: #f39800;margin-bottom: 100px;}
+.ma{float: left;width: 215px;height: 215px;padding: 5px;background: #fff;margin:10px ;}
+.ma img{display: block;}
+.ma span{display: block;height: 50px;line-height: 50px;text-align: center;color: #fff;font-size: 22px;}
+.inputDiv{float: right;width: 300px; border-left:1px solid #fff;padding: 0 10px;margin-top: 10px;margin-bottom: 10px;}
+.t1{font-size: 16px;height: 36px;line-height: 36px;}
+.t1 span{color: yellow;}
+.formInput1{height: 60px;width: 300px;background: #fff;box-sizing:border-box;padding: 1px; margin-bottom: 15px;}
+.f_1{float: left;width: 60%; height: 58px;line-height: 58px;font-size: 16px;border:none;box-sizing:border-box; padding: 0 5px;}
+.b_1{float: left;display: inline-block;height: 58px;line-height: 58px;width: 40%;text-align: center;border:none;font-size: 16px;background: #00a0e9;color: #fff;}
+.formInput2{height: 48px;width: 300px; box-sizing:border-box;padding: 1px; margin-bottom: 15px;background: #fff; }
+.f_2{float: right;width: 60%; height: 46px;line-height: 46px;font-size: 16px;border:none;box-sizing:border-box; padding: 0 5px;}
+.b_2{float: right;display: inline-block;height: 46px;line-height: 46px;width: 40%;text-align: center;border:none;font-size: 16px;background: #ff3f3f;color: #fff;}
+.t_1{border:1px solid #fff;width: 100%;box-sizing:border-box;padding: 5px; height: 100px;font-size: 16px;}
+.textarea{position: relative;}
+.effectiveQuan{width: 100%;height: 100%;position: absolute;left: 0;top: 0;background: #fff;line-height: 1.6;box-sizing:border-box;  }
+/*.effectiveQuan:before{content: "";width: 20px;height: 20px;border-radius: 50%;background: #f39800;position: absolute;left: -10px;top: 50%; margin-top: -10px;}
+.effectiveQuan:after{content: "";width: 20px;height: 20px;border-radius: 50%;background: #f39800;position: absolute;right: -10px;top: 50%; margin-top: -10px;}*/
+.quanleft{float: left;width: 60%;}
+.quanPrice{color: #f75050;font-size: 32px;line-height: 1.2;padding-top: 8px;padding-bottom: 0px;; padding-left: 10px; }
+.quanTips{font-size: 14px; padding-left: 5px;color: #777; padding-left: 10px;}
+.time{font-size: 12px; color: #777; position: absolute;width: 100%;height: 30px;line-height: 30px;bottom: 0;border-top: 1px dashed #d8d8d8;box-sizing:border-box; padding-left: 10px;}
+.quanRight{ width: 40%;float: right;color: #f00;font-size: 32px;height: 100%;text-align: center;padding-top: 15px; }
+.quanRight span{ text-align: center; text-align: center;font-size: 52px; color: #f00;line-height: 1.2}
+
+.textscroll{padding: 10px; height: 32px;overflow: hidden;background: #b47001}
+.textscroll ul li{width: 100%; height: 32px;line-height: 32px;}
+.textscroll ul li > *{display: inline-block;font-style: normal;}
+.textscroll ul li span{width: 50%;color: #f39800}
+.textscroll ul li em,.textscroll ul li ins{width: 25%;color: #f39800}
+.textscroll ul li ins{text-align: right;text-decoration: none;color: red;}
+.bannerBtn{display:block;width: 140px;height: 50px;line-height: 50px;border:1px solid #fff;text-align: center;font-size: 34px;font-weight: 300;padding: 10px 30px;margin: 0 auto;color: #fff;transition:  all 0.3s ease-out}
+.bannerBtn:hover{border:1px solid #00a0e9;background: #00a0e9;color: #fff;}
+.bgc{background: #f1f1f1}
+.bgimg{display: block;margin-bottom: 50px;}
+.bgw{background: #fff;}
+.lastb{padding: 30px 0;line-height: 1.9;font-size: 16px;}
+.lastb span{font-size: 20px;}
+.top{position: fixed;top: 0;left: 0;height: 100px;width: 100%;background: rgba(0,0,0,.6);}
+a.xiazai{width: 272px;height: 69px;display: inline-block;float: right;margin-top: 15px;}
+.img1{float: left;display: inline-block;width: 467px;}
+/******移动端******/
+.mBody{background: #fe5858;}
+.phoneBox{max-width:640px;margin:0 auto;}
+.topPhone{background: url(../images/20160531_9.png) no-repeat top center; height: 331px;}
+.toplogo{background: url(../images/20160531_10.png) no-repeat center -30px ; height: 190px;}
+.toptxt{padding: 5%;padding-right: 42%;color: #fff;line-height: 1.8;text-indent: 2em;word-break: break-all;font-size: 18px; padding-top: 3%}
+.formBox{padding: 5%;clear: both;display: block;}
+.formBox > *{ text-decoration: none; -webkit-tap-highlight-color: transparent;}
+.phone_input{border:none;background: #fff;border-radius: 10% ; width: 100%; height: 86px; border-radius: 50px;font-size: 30px;padding:2px 20px;box-sizing:border-box;display: block;margin-bottom: 20px;line-height: 86px}
+.phone_btn{border:none;background: #ffa000;border-radius: 10% ; width: 100%; height: 86px; line-height: 86px;border-radius: 50px;font-size: 30px;padding:2px 20px;box-sizing:border-box;display: block;margin-bottom: 20px;color: #fff; }
+.produce{ color: #fff;line-height: 1.6;font-weight: normal;margin-bottom: 20px;font-size: 24px;}
+.inputDivform{border-radius: 10% ; width: 100%; height: 86px; border-radius: 50px;box-sizing:border-box;display: block;margin-bottom: 20px ;background: #fff;padding: 2px;}
+.phone_input1{float: left;width: 65%;height: 82px;line-height: 82px; border-radius: 50px;font-size: 30px;padding:0 20px;box-sizing:border-box;display:inline-block; border:none;}
+.phone_btn2{border:none;background: #ffa000;border-radius: 10% ; width: 35%; height: 82px; border-radius: 50px;font-size: 30px; box-sizing:border-box;display: inline-block;color: #fff;float:left;}
+.zhongTxt{background: #f43c3c;color: #fff;box-sizing:border-box;padding: 10px;height: 222px;overflow: hidden;}
+.zhongTxt ul li{width: 100%; height: 48px;line-height: 48px;color: #fff;font-size: 24px;}
+.zhongTxt ul li > *{display: inline-block;font-style: normal;}
+.zhongTxt ul li span{width: 50%;color: #fff}
+.zhongTxt ul li em,.zhongTxt ul li ins{width: 25%;color: #fff}
+.zhongTxt ul li ins{text-align: right;text-decoration: none;color: #fff;}
+.phone_input:focus,.phone_input1:focus,.phone_input1:focus,.phone_btn2:focus{border:none;}
+.quan{background: #fe5858;padding: 10% 0;padding-bottom: 0%;}
+.quanBox{background: #fff;color: #fff;width: 70%;margin: 0 auto;padding: 2%;border:1px solid #ff718d;position: relative;box-shadow: 0 0 5px #555; height: 150px;border-radius: 1.2em;}
+.quanBox:before{content: "";width: 30px;height: 30px;border-radius: 50%;background: #fe5858;position: absolute;left: -15px;top: 50%; margin-top: -15px;}
+.quanBox:after{content: "";width: 30px;height: 30px;border-radius: 50%;background: #fe5858;position: absolute;right: -15px;top: 50%; margin-top: -15px;}
+.quanBox h1{color: #ff718d;line-height: 1.2;padding-right: 35%;font-size: 40px;box-sizing:border-box;padding-left: 15px;}
+.quanBox h2{color: #333;font-size: 24px;line-height: 1.3;padding-right: 35%;box-sizing:border-box;padding: 10px 0;padding-left: 15px;}
+.quanDiv{display: block;position: absolute;top: 0;right: 0; height: 100%; width: 35%; text-align: center;color: red;font-size: 50px;box-sizing:border-box;padding-top: 5%;font-size: 30px;}
+.quanDiv span{font-size: 60px;}
+ .time1{position: absolute;height: 50px;line-height: 50px;border-top: 1px dashed #d9d9d9;bottom: 0;font-size: 24px;color: #555; width: 100%;box-sizing:border-box;left: 0;padding-left: 25px;}
+
+.quanTxt{text-align: center;color: #fff;font-size: 24px;padding:4% 5%;padding-bottom: 2%  }
+.quanTxt h1,.quanTxt h2{line-height: 1.8;font-size: 24px;}
+
+#weixin-tip{display: none; position: fixed; left:0; top:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80); width: 100%; height:100%; z-index: 100;} 
+#weixin-tip p{text-align: center; margin-top: 10%; padding:0 5%; position: relative;}
+#weixin-tip .close{
+	color: #fff;
+	padding: 5px;
+	font: bold 40px/20px 'simsun';
+	text-shadow: 0 1px 0 #ddd;
+	position: absolute;
+	top: 0; left: 5%;
+}
+.imgsBox li{float: left;width: 362px;height: 642px;margin-right: 57px; background: #fff;overflow: hidden;position: relative;margin-bottom: 50px;}
+.imgsBox li:nth-child(3n){margin-right: 0;float: right;}
+ 
+ 
+.wen{font-size: 16px;line-height: 1.8; word-break: break-all;}
+.da{padding-bottom: 18px;line-height: 1.8; word-break: break-all;text-indent: 0;font-size: 16px;}
+.lq{display: block;height: 48px;line-height: 48px;text-align: center;color: #fff;background: #00a0e9;font-size: 16px;}
+.lq:hover{background: #0d89c2;color: #fff;}
+.floatLi{position: absolute;bottom: 0;left: 0;height: 170px;padding: 0 15px;color: #fff;transform: translateY(100%);transition:all 0.25s ease-in-out 0s;width: 332px}
+.imgsBox li:hover .floatLi{transform: translateY(0);}
+.da1{line-height: 1.8; word-break: break-all;font-size: 14px;}
+li.firstli{background: url(../images/20160531_2.jpg) no-repeat 0 0; }
+.title_1{text-align: center;border-bottom: 1px solid #fff;font-size: 24px;padding-bottom: 2px;margin-bottom: 10px;}
+li.secondLi{background: url(../images/20160531_2.jpg) no-repeat -422px 0; }
+li.threeLi{background: url(../images/20160531_2.jpg) no-repeat -839px 0; }
+li.fouthLi{background: url(../images/20160531_2.jpg) no-repeat -1px -735px; }
+li.fiveLi{background: url(../images/20160531_2.jpg) no-repeat -421px -735px; }
+li.sixLi{background: url(../images/20160531_2.jpg) no-repeat -839px -737px; }
+.bg_0{background: #f39800 ;height: 642px;}
+.bg_1{background: #f7ce5a}
+.bg_2{background: #a4ce4a}
+.bg_3{background: #73c966}
+.bg_4{background: #49a1df}
+.bg_5{background: #6dc7da}
