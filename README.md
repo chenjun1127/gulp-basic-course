@@ -126,3 +126,4 @@ gulp.task('default', function() {
 也可以运行整个任务
 <pre>gulp</pre>
 
+[最新DEMO见这里](https://github.com/chenjun1127/gulp-static)
